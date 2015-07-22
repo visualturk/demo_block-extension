@@ -1,6 +1,6 @@
 <?php namespace Anomaly\DemoBlockExtension;
 
-use Anomaly\BlocksModule\Type\BlockTypeExtension;
+use Anomaly\BlocksModule\Block\Type\BlockTypeExtension;
 
 /**
  * Class DemoBlockExtension

@@ -2,6 +2,8 @@
 
 <div class="demo-block test-block">
 
-    I am the block.
+    <h3>{{ block.entry.title }}</h3>
+
+    {{ block.entry.content.render|raw }}
 
 </div>
