@@ -3,13 +3,13 @@
 use Anomaly\Streams\Platform\Database\Migration\Migration;
 
 /**
- * Class AnomalyExtensionDemoBlock_1_0_0_CreateDemoBlocksStream
+ * Class AnomalyExtensionDemoBlockCreateDemoBlocksStream
  *
  * @link          http://anomaly.is/streams-platform
  * @author        AnomalyLabs, Inc. <hello@anomaly.is>
  * @author        Ryan Thompson <ryan@anomaly.is>
  */
-class AnomalyExtensionDemoBlock_1_0_0_CreateDemoBlocksStream extends Migration
+class AnomalyExtensionDemoBlockCreateDemoBlocksStream extends Migration
 {
 
     /**
