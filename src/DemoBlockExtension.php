@@ -1,6 +1,6 @@
 <?php namespace Anomaly\DemoBlockExtension;
 
-use Anomaly\BlocksModule\Block\Type\BlockTypeExtension;
+use Anomaly\Streams\Platform\Addon\Extension\Extension;
 
 /**
  * Class DemoBlockExtension
@@ -10,7 +10,7 @@ use Anomaly\BlocksModule\Block\Type\BlockTypeExtension;
  * @author        Ryan Thompson <ryan@anomaly.is>
  * @package       Anomaly\DemoBlockExtension
  */
-class DemoBlockExtension extends BlockTypeExtension
+class DemoBlockExtension extends Extension
 {
 
     /**
